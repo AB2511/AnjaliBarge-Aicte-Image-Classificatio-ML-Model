@@ -1,4 +1,4 @@
-AnjaliBarge-Aicte-Image-Classificatio-ML-Model
+### AnjaliBarge-Aicte-Image-Classificatio-ML-Model
 
 
 This project provides an interactive image classification web app built with **Streamlit**. It classifies images using a **CIFAR-10** dataset model and **MobileNetV2** trained on ImageNet. The app allows users to upload images and get real-time predictions.
@@ -24,6 +24,7 @@ AnjaliBarge-Aicte-Image-Classificatio-ML-Model/
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/AnjaliBarge/AnjaliBarge-Aicte-Image-Classificatio-ML-Model.git
+```
 
 ### 2. Create a Virtual Environment (optional but recommended)
 ```bash
@@ -97,9 +98,6 @@ This project requires the following libraries:
 
 The `requirements.txt` file includes all the dependencies you need to run the project.
 
-## License
-
-This project is open-source and available under the MIT License.
 
 ## Acknowledgments
 
